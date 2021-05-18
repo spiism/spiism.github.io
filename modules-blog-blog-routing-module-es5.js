@@ -34,7 +34,7 @@
       /* harmony default export */
 
 
-      __webpack_exports__["default"] = "<sb-layout-blog><sb-clean-blog-header backgroundImage='url(\"assets/img/about-bg.jpg\")' heading=\"About Me\" subHeading=\"This is what I do\" [siteHeading]=\"true\"></sb-clean-blog-header></sb-layout-blog>\n";
+      __webpack_exports__["default"] = "<sb-layout-blog><sb-clean-blog-header backgroundImage='url(\"assets/img/about-bg.jpg\")' heading=\"...\" subHeading=\"Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers - Socrates\" [siteHeading]=\"true\"></sb-clean-blog-header></sb-layout-blog>\n";
       /***/
     },
 
