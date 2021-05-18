@@ -1,1 +1,1 @@
-# This is where i put my projects
+# My CV is here: https://spiism.github.io/CV/
