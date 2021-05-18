@@ -34,7 +34,7 @@
       /* harmony default export */
 
 
-      __webpack_exports__["default"] = "<sb-layout-blog><sb-clean-blog-header backgroundImage='url(\"assets/img/about-bg.jpg\")' heading=\"...\" subHeading=\"Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers - Socrates\" [siteHeading]=\"true\"></sb-clean-blog-header></sb-layout-blog>\n";
+      __webpack_exports__["default"] = "<sb-layout-blog><sb-clean-blog-header backgroundImage='url(\"assets/img/about-bg.jpg\")' heading=\"\" subHeading=\"Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers - Socrates\" [siteHeading]=\"true\"></sb-clean-blog-header></sb-layout-blog>\n";
       /***/
     },
 
@@ -1398,7 +1398,7 @@
       /* harmony default export */
 
 
-      __webpack_exports__["default"] = "<sb-layout-blog\n    ><sb-clean-blog-header backgroundImage='url(\"assets/img/home-bg.jpg\")' heading=\"Michael Ho\" subHeading=\"\" [siteHeading]=\"true\"></sb-clean-blog-header><sb-demo-info *ngIf=\"!isLoggedIn\"></sb-demo-info\n    ><ng-container *ngIf=\"posts$ | async as posts\"\n        ><div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-8 col-md-10 mx-auto\">\n                    <div class=\"post-preview\" *ngFor=\"let post of posts\">\n                        <a [routerLink]=\"post.slug\"\n                            ><h2 class=\"post-title\">{{post.heading}}</h2>\n                            <h3 class=\"post-subtitle\">{{post.subHeading}}</h3></a\n                        >\n                        <p class=\"post-meta\">{{post.meta}}</p>\n                    </div>\n                </div>\n            </div>\n        </div></ng-container\n    ></sb-layout-blog\n>\n";
+      __webpack_exports__["default"] = "<sb-layout-blog\n    ><sb-clean-blog-header backgroundImage='url(\"assets/img/home-bg.jpg\")' heading=\"Michael Ho\" subHeading=\"...\" [siteHeading]=\"true\"></sb-clean-blog-header><sb-demo-info *ngIf=\"!isLoggedIn\"></sb-demo-info\n    ><ng-container *ngIf=\"posts$ | async as posts\"\n        ><div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-8 col-md-10 mx-auto\">\n                    <div class=\"post-preview\" *ngFor=\"let post of posts\">\n                        <a [routerLink]=\"post.slug\"\n                            ><h2 class=\"post-title\">{{post.heading}}</h2>\n                            <h3 class=\"post-subtitle\">{{post.subHeading}}</h3></a\n                        >\n                        <p class=\"post-meta\">{{post.meta}}</p>\n                    </div>\n                </div>\n            </div>\n        </div></ng-container\n    ></sb-layout-blog\n>\n";
       /***/
     },
 

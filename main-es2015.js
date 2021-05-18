@@ -1192,7 +1192,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<footer>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-lg-8 col-md-10 mx-auto\">\n                <ul class=\"list-inline text-center\">\n\n                    <li class=\"list-inline-item\">\n                        <a href=\"https://www.linkedin.com/in/michaelho16/\" target=\"_blank\"\n                            ><fa-stack size=\"lg\"><fa-icon class=\"fa-stack-2x\" [icon]='[\"fas\", \"circle\"]' stackItemSize=\"2x\"></fa-icon><fa-icon class=\"fa-stack-1x fa-inverse\" [icon]='[\"fab\", \"facebook-f\"]' stackItemSize=\"1x\"></fa-icon></fa-stack\n                        ></a>\n                    </li>\n                    <li class=\"list-inline-item\">\n                        <a href=\"https://github.com/spiism\" target=\"_blank\"\n                            ><fa-stack size=\"lg\"><fa-icon class=\"fa-stack-2x\" [icon]='[\"fas\", \"circle\"]' stackItemSize=\"2x\"></fa-icon><fa-icon class=\"fa-stack-1x fa-inverse\" [icon]='[\"fab\", \"github\"]' stackItemSize=\"1x\"></fa-icon></fa-stack\n                        ></a>\n                    </li>\n                </ul>\n                <p class=\"copyright text-muted\">Copyright © Michael Ho 2021</p>\n            </div>\n        </div>\n    </div>\n</footer>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<footer>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-lg-8 col-md-10 mx-auto\">\n                <ul class=\"list-inline text-center\">\n\n                    <li class=\"list-inline-item\">\n                        <a href=\"https://www.linkedin.com/in/michaelho16/\" target=\"_blank\"\n                            ><fa-stack size=\"lg\"><fa-icon class=\"fa-stack-2x\" [icon]='[\"fas\", \"circle\"]' stackItemSize=\"2x\"></fa-icon><fa-icon class=\"fa-stack-1x fa-inverse\" [icon]='[\"fab\", \"linkedin\"]' stackItemSize=\"1x\"></fa-icon></fa-stack\n                        ></a>\n                    </li>\n                    <li class=\"list-inline-item\">\n                        <a href=\"https://github.com/spiism\" target=\"_blank\"\n                            ><fa-stack size=\"lg\"><fa-icon class=\"fa-stack-2x\" [icon]='[\"fas\", \"circle\"]' stackItemSize=\"2x\"></fa-icon><fa-icon class=\"fa-stack-1x fa-inverse\" [icon]='[\"fab\", \"github\"]' stackItemSize=\"1x\"></fa-icon></fa-stack\n                        ></a>\n                    </li>\n                </ul>\n                <p class=\"copyright text-muted\">Copyright © Michael Ho 2021</p>\n            </div>\n        </div>\n    </div>\n</footer>\n");
 
 /***/ }),
 
@@ -1799,6 +1799,7 @@ const fontAwesomeBrandsIcons = {
     faGoogle: _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_0__["faGoogle"],
     faMarkdown: _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_0__["faMarkdown"],
     faTwitter: _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_0__["faTwitter"],
+    faLinkedin: _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_0__["faLinkedin"],
 };
 
 
