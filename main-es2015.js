@@ -1231,7 +1231,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<nav class=\"navbar navbar-expand-lg navbar-light fixed-top\" id=\"mainNav\">\n    <div class=\"container\">\n        <a class=\"navbar-brand\" routerLink=\"/\">Home</a><button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" (click)=\"isMenuCollapsed = !isMenuCollapsed\" aria-controls=\"navbarResponsive\" aria-expanded=\"false\" aria-label=\"Toggle navigation\"><fa-icon class=\"ml-1\" [icon]='[\"fas\", \"bars\"]'></fa-icon></button>\n        <div class=\"collapse navbar-collapse\" [ngbCollapse]=\"isMenuCollapsed\">\n            <ul class=\"navbar-nav ml-auto\">\n                <li class=\"nav-item\"><a class=\"nav-link\" routerLink=\"/about\">About</a></li>\n                <li class=\"nav-item\"><a class=\"nav-link\" href=\"https://spiism.github.io/CV/\" target=\"_blank\">CV</a></li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link icon\" href=\"https://github.com/spiism\" target=\"_blank\"><fa-icon [icon]='[\"fab\", \"github\"]'></fa-icon></a>\n                </li>\n                <li class=\"nav-item\" *ngIf=\"isLoggedIn &amp;&amp; isOnPost\"><a class=\"nav-link pointer\" (click)=\"editPost()\">Edit Post</a></li>\n            </ul>\n            <form class=\"form-inline ml-lg-2\" *ngIf=\"isLoggedIn\"><a class=\"btn btn-primary\" routerLink=\"/new\">New Post</a></form>\n        </div>\n    </div>\n</nav>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<nav class=\"navbar navbar-expand-lg navbar-light fixed-top\" id=\"mainNav\">\n    <div class=\"container\">\n        <a class=\"navbar-brand\" routerLink=\"/\">Home</a><button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" (click)=\"isMenuCollapsed = !isMenuCollapsed\" aria-controls=\"navbarResponsive\" aria-expanded=\"false\" aria-label=\"Toggle navigation\"><fa-icon class=\"ml-1\" [icon]='[\"fas\", \"bars\"]'></fa-icon></button>\n        <div class=\"collapse navbar-collapse\" [ngbCollapse]=\"isMenuCollapsed\">\n            <ul class=\"navbar-nav ml-auto\">\n                <li class=\"nav-item\"><a class=\"nav-link\" routerLink=\"/about\">About</a></li>\n                <li class=\"nav-item\"><a class=\"nav-link icon\" href=\"https://spiism.github.io/CV/\" target=\"_blank\"><fa-icon [icon]='[\"fab\", \"canadian-maple-leaf\"]'></fa-icon></a>\n                </li>\n                <li class=\"nav-item\" *ngIf=\"isLoggedIn &amp;&amp; isOnPost\"><a class=\"nav-link pointer\" (click)=\"editPost()\">Edit Post</a></li>\n            </ul>\n            <form class=\"form-inline ml-lg-2\" *ngIf=\"isLoggedIn\"><a class=\"btn btn-primary\" routerLink=\"/new\">New Post</a></form>\n        </div>\n    </div>\n</nav>\n");
 
 /***/ }),
 
@@ -1800,6 +1800,7 @@ const fontAwesomeBrandsIcons = {
     faMarkdown: _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_0__["faMarkdown"],
     faTwitter: _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_0__["faTwitter"],
     faLinkedin: _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_0__["faLinkedin"],
+    faCanadianMapleLeaf: _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_0__["faCanadianMapleLeaf"],
 };
 
 
