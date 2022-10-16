@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\Vina\Desktop\profile\portfolio-main\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! C:\react\profile\PortfolioAngular\src\polyfills.ts */"hN/g");
 
 
 /***/ }),
